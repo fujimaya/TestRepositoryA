@@ -1,3 +1,4 @@
 bin_fileA
 bin_fileA
 abcdefg
+abcdefg
