@@ -1,1 +1,2 @@
 bin_fileA
+bin_fileA
